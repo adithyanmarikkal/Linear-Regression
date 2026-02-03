@@ -98,10 +98,3 @@ By working through this project, you'll understand:
 - The importance of learning rate and iterations
 - Model evaluation techniques
 
-## Author
-
-Created as an educational project to understand the fundamentals of machine learning algorithms.
-
-## License
-
-This project is open source and available for educational purposes.
